@@ -1,0 +1,107 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: flyer01 (1).indd
+
+PACKAGE DATE: 03/09/2019 18:18
+Creation Date: 03/09/2019
+Modification Date: 03/09/2019
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+Print double sided
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On PagePB, 1, 2
+
+FONTS
+4 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 3 Protected
+
+Fonts Not Packaged
+- Name: CloneRounded-Eb; Type: OpenType Type 1, Status: Activated
+- Name: CloneRounded-Me; Type: OpenType Type 1, Status: Activated
+- Name: CloneRounded-Rg; Type: OpenType Type 1, Status: Activated
+Fonts Packaged
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+
+
+COLOURS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Magenta; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Black; Angle: 0.000; Lines/Inch: 0.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 18 Links Found; 0 Modified, 18 Missing, 0 Inaccessible
+Images: 0 Embedded, 18 use RGB colour space
+
+- Name: 1200px-University_of_Reading_shield.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: 340340_preview.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: RUHSocialMediaLogos.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: adam-birkett-6cXZnFCd2KQ-unsplash.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: alcohol-alcoholic-beverage-bar-1089930.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: alien-arcade-background-1670977.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: bedrock-blur-buttons-1591060.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: blastoff-boosters-flight-39603.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: computer-mouse-1243404.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: e-commerce-hand-1593857.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: jason-blackeye-XYrjl3j7smo-unsplash.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: mike-von-cNVO-8JhgAg-unsplash.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: nasa-Yj1M5riCKk4-unsplash.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: nordwood-themes-EZSm8xRjnX0-unsplash.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: oliur-_8S9nEmCZK0-unsplash.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: paul-esch-laurent-a-L0mmyCqcY-unsplash.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: qrcode.53205035.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: samuel-zeller-VK284NKoAVU-unsplash.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+
+PRINT SETTINGS
+PPD: N/A, (Deskjet 2540 series)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 mm, 0 mm, 0 mm, 0 mm
+Colour: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimised Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Custom: 151 mm x 213 mm
+Paper Dimensions: 210 mm x 297 mm
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. flyer01 (1).indd; type: Adobe InDesign publication; size: 9980K
+2. flyer01 (1).idml; type: InDesign Mark-up Document; size: 124K
+3. flyer01 (1).pdf; type: Adobe Acrobat Document; size: 1151K
+4. MinionPro-Regular.otf; type: Font file; size: 213K
