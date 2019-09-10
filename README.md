@@ -30,5 +30,3 @@ cmyk(64.58, 54.35, 52.32, 53.31)
 
 ## Font
 ### Coming soon!
-
-![Color scheme](https://imgur.com/a/SDgiut4.png)
