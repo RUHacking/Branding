@@ -6,20 +6,6 @@ PACKAGE DATE: 03/09/2019 18:14
 Creation Date: 03/09/2019
 Modification Date: 03/09/2019
 
-CONTACT INFORMATION
-
-Company Name: 
-Contact: 
-Address: 
-
-
-
-
-
-Phone: 
-Fax: 
-Email: 
-
 SPECIAL INSTRUCTIONS AND OTHER NOTES
 
 Binary used on the background has transparency 
