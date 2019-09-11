@@ -4,7 +4,6 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/mitko/Desktop/Real Jobs /R U Hacking Rebrand/RUH_Flyer_PrintReady Folder/Document fonts/AdobeFnt21.lst
 FileLength:623
 FileModTime:589216697
 %EndFont
@@ -22,7 +21,6 @@ WidthClass:5
 AngleClass:0
 FullName:Minion Pro
 WritingScript:Roman
-OutlineFileName:/Users/mitko/Desktop/Real Jobs /R U Hacking Rebrand/RUH_Flyer_PrintReady Folder/Document fonts/MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -34,4 +32,3 @@ DesignSize:110
 NameArray:0,Mac,4,Minion Pro
 NameArray:0,Win,1,Minion Pro
 %EndFont
-
