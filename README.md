@@ -12,7 +12,7 @@ Used for backgrounds.
 rgb(68, 69, 69)
 cmyk(64.58, 54.35, 52.32, 53.31)
 ```
-### Red
+### Orange
 Used for logo/text.
 
 ```
