@@ -4,15 +4,14 @@ Repository dedicated to hosting brand resources and outlining R. U. Hacking? bra
 ## Colour scheme
 ![color_scheme](https://github.com/RUHacking/Branding/blob/master/new_branding/color_scheme.jpeg)
 
-### Blue
+### Grey
 Used for backgrounds.
 
 ```
-#16b8d8
-rgb(27, 184, 216)
-cmyk(70.88, 0.37, 13.57, 0)
+#000000
+rgb(68, 69, 69)
+cmyk(64.58, 54.35, 52.32, 53.31)
 ```
-
 ### Red
 Used for logo/text.
 
@@ -21,14 +20,13 @@ Used for logo/text.
 rgb(234, 88, 55)
 cmyk(0.02, 76.6, 79.77, 0.01)
 ```
-
-### Grey
+### Blue
 Used for logo/text.
 
 ```
-#000000
-rgb(68, 69, 69)
-cmyk(64.58, 54.35, 52.32, 53.31)
+#16b8d8
+rgb(27, 184, 216)
+cmyk(70.88, 0.37, 13.57, 0)
 ```
 
 
