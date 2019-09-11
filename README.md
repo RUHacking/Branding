@@ -8,7 +8,7 @@ Repository dedicated to hosting brand resources and outlining R. U. Hacking? bra
 Used for backgrounds.
 
 ```
-#000000
+#454545
 rgb(68, 69, 69)
 cmyk(64.58, 54.35, 52.32, 53.31)
 ```
