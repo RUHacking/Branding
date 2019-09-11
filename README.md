@@ -2,6 +2,8 @@
 Repository dedicated to hosting brand resources and outlining R. U. Hacking? branding guidelines.
 
 ## Colour scheme
+![color_scheme](https://github.com/RUHacking/Branding/blob/master/new_branding/color_scheme.jpeg)
+
 ### Blue
 Used for backgrounds.
 
@@ -10,6 +12,7 @@ Used for backgrounds.
 rgb(27, 184, 216)
 cmyk(70.88, 0.37, 13.57, 0)
 ```
+
 ### Red
 Used for logo/text.
 
@@ -28,5 +31,6 @@ rgb(68, 69, 69)
 cmyk(64.58, 54.35, 52.32, 53.31)
 ```
 
+
 ## Font
-### Coming soon!
+Standard font for marketing material: [Minion Pro Regular](https://fonts.adobe.com/fonts/minion)
