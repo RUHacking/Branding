@@ -31,4 +31,7 @@ cmyk(70.88, 0.37, 13.57, 0)
 
 
 ## Font
-Standard font for marketing material: [Minion Pro Regular](https://fonts.adobe.com/fonts/minion) by [Adobe Fonts](https://fonts.adobe.com/).
+Standard font for marketing material:
+[Minion Pro Regular](https://fonts.adobe.com/fonts/minion) by [Adobe Fonts](https://fonts.adobe.com/).
+Logo font:
+[Clone Rounded Latin Medium](https://fonts.adobe.com/fonts/clone-rounded) by [Adobe Fonts](https://fonts.adobe.com/)
